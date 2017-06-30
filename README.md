@@ -1,6 +1,9 @@
 Semantic Similairty Determination of Short Text
 =========
 
+Paper Implemented -> Abhay Kashyap, Lushan Han, Roberto Yus, Jennifer Sleman, Taneeya Satyapanich, Sunil Gandhi, Tim Finn, “Robust Semantic Text Similarity using LSA, Machine Learning, and Linguistic Resources”, Springer Transaction. 2016.
+
+
 [Final Result Graph](https://drive.google.com/open?id=0BwXeiCjEpkS8RkJ2MFRzYk53S0E)
 
 Check the project PPT:
