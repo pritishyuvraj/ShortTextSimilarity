@@ -1,16 +1,17 @@
-Sticky Table Headers &amp; Columns
+Semantic Similairty Determination of Short Text
 =========
+Check the project PPT:
+[Project PPT](https://www.slideshare.net/slideshow/embed_code/key/cxkvtwvMlED6et)
 
-*A tutorial on how to create sticky headers and columns for tables using jQuery. The solution is an alternative to other sticky table header approaches and it addresses the overflowing table problem including adding support for biaxial headers.*
-
-[Article on Codrops](http://tympanus.net/codrops/?p=18116)
-
-[Demo](http://tympanus.net/Tutorials/StickyTableHeaders/)
-
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
-
-Read more here: [License](http://tympanus.net/codrops/licensing/)
-
-[© Codrops 2013](http://www.codrops.com)
+Correlation score between Machine Predicted score and Human score is ~78%
 
 
+To Check the similarity between two small texts:
+1) python flask3.py (Switch on the server)
+2) Open the file input.php on the web-browser
+3) Enter the two sentences and click on "OK"
+4) Open the file "index.php" to view the results
+
+
+TO check the overall Correlation score:
+1) python extract.py
