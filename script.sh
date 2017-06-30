@@ -1,0 +1,1 @@
+python sts1.py "i am a girl" "i am boy  "

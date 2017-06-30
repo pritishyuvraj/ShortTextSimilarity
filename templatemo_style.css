@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	text-align:center;
+	color: #f0f0f0;
+	background-color: #ff4000;
+}
+a:link, a:visited { color: #ffffff; text-decoration: none; font-weight: normal; } 
+a:active, a:hover { color: #FFFF66; text-decoration: underline; }
+
+#templatemo_menu {
+	height: 40px;
+	text-align:center;
+}
+#templatemo_menu ul {
+	padding: 10px 0 0 0;
+	margin: 0 auto;
+	list-style: none;
+}
+#csvData {
+	text-align: left;
+}
+#fileDisplayArea{
+	text-align:left;
+}
+#templatemo_menu ul li a {
+	float: left;
+	display: block;
+	height: 30px;
+	padding: 10px 0 0 0;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 16px;
+	text-decoration: underline;
+	color: #FFFFFF;	
+	outline: none;
+}
+
+#templatemo_menu li a:hover, #templatemo_menu li .current {
+	color: #FFCC66;
+}
+p.title{
+	text-align:center;
+	font-size:30px;
+	line-height:35px;
+}
+#title1{
+	text-align:center;
+	text-decoration:underline;
+	font-size:25px;
+}
+#title6{text-align:center;font-size:25px;line-height:20px;}
+pre.new{text-align:center;margin-left:auto;margin-right: auto;}
+img.IMG{display: block;
+    margin-left: auto;
+    margin-right: auto;}
+/* end of menu */
