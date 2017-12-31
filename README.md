@@ -5,6 +5,7 @@ Paper Implemented -> Abhay Kashyap, Lushan Han, Roberto Yus, Jennifer Sleman, Ta
 
 
 [Final Result Graph](https://drive.google.com/open?id=0BwXeiCjEpkS8RkJ2MFRzYk53S0E)
+![alt text](https://drive.google.com/open?id=0BwXeiCjEpkS8RkJ2MFRzYk53S0E)
 
 Check the project PPT:
 [Project PPT](https://www.slideshare.net/slideshow/embed_code/key/cxkvtwvMlED6et)
